@@ -1,0 +1,14 @@
+---
+:id: 127940902
+:submitters:
+- :name: Mavis Wang
+  :email: maviswang2025@u.northwestern.edu
+- :name: Annabel Grace Edwards
+  :email: annabeledwards2023@u.northwestern.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-06-06 18:04:28.728138000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-06-06 11:04:28.728138000 Z
+:status: processed
+:score: 96.0
